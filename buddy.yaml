@@ -1,0 +1,6 @@
+registry: registry.demo.com
+actions:
+  - PULL
+  - PROMPT
+  - TAG
+  - PUSH
